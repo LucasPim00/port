@@ -26,6 +26,15 @@ const projetosFront = [
   },
   {
     id: 3,
+    title: 'Animated Portfolio',
+    description: 'It features a modern design, ScrollReveal animations, and dark mode. My developer debut was clear and interactive.',
+    image: '/projetos/port.jpg',
+    techs: ['HTML', 'CSS','JavaScript', 'ScrollReveal', 'SVGs inline'],
+    link: 'https://port-animado.vercel.app/', 
+    code: 'https://github.com/LucasPim00/port-animado/tree/main',
+  },
+  {
+    id: 3,
     title: 'Real-time Stock Exchange',
     description: 'Time zone-aware financial dashboard with account authentication',
     image: '/projetos/cripto.jpg',

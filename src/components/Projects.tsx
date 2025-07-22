@@ -26,6 +26,15 @@ const projetosFront = [
   },
   {
     id: 3,
+    title: 'Portfólio Animado',
+    description: 'Possui design moderno, animações com ScrollReveal e modo escuro. Quis exibir o começo da trajetória como desenvolvedor de forma clara e interativa.',
+    image: '/projetos/port.jpg',
+    techs: ['HTML', 'CSS','JavaScript', 'ScrollReveal', 'SVGs inline'],
+    link: 'https://port-animado.vercel.app/', 
+    code: 'https://github.com/LucasPim00/port-animado/tree/main',
+  },
+  {
+    id: 4,
     title: 'Bolsa de Valores tempo real',
     description: 'Dashboard financeiro com reconhecimento em fuso-horário e autentificação de conta',
     image: '/projetos/cripto.jpg',
@@ -34,7 +43,7 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/Dash-cripto',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Clone Nubank',
     description: 'Projeto feito em Figma, porém com React 18 para UI, Prisma ORM para intregração do PDF para o banco de dados e Public folder para conversão de PDF',
     image: '/projetos/nubank.png',
@@ -43,7 +52,7 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/nu',
   },
   {
-    id: 5,
+    id: 6,
     title: 'Site informativo Android',
     description: 'Este é um site estático e semântico, usado para aprender a usar acoplamento, padding diversos e funcionalidades',
     image: '/projetos/android.jpg',
@@ -52,7 +61,7 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/Projeto-android',
   },
   {
-    id: 6,
+    id: 7,
     title: 'Meu Iphone',
     description: 'Este projeto simula uma interface de celular estilo iPhone, com links para redes sociais que abrem dentro de um iframe.',
     image: '/projetos/iphone.jpg',
