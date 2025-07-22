@@ -1,0 +1,40 @@
+# .gitignore para projeto Next.js com Tailwind CSS
+
+# Dependências
+/node_modules
+
+# Produção
+/.next
+/out
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Prisma
+/dev.db
+/dev.db-journal
+.prisma/
+
+# Build
+.next
+*.log
+
+# Outros
+*.tgz
+*.lock
