@@ -114,6 +114,15 @@ const projetosBack = [
 const projetosFull = [
   {
     id: 1,
+    title: 'Betting House',
+    description: 'Interactive platform related to betting, financial transactions, cryptocurrencies and football matches.',
+    image: '/projetos/apostas.jpg',
+    techs: ['React', 'React Router DOM', 'React Toastify', 'React Hook Form', 'Node.js','CssBaseline', 'Styled-Components','Material UI', 'Yup'],
+    link: 'https://apostas-8v29.vercel.app/', 
+    code: 'https://github.com/LucasPim00/apostas', 
+  },
+  {
+    id: 2,
     title: 'Project Organizer',
     description: 'Project with Next.Auth features, folder with two-factor security done',
     image: '/projetos/geralFULL.jpg',
@@ -122,7 +131,7 @@ const projetosFull = [
     code: 'https://github.com/LucasPim00/Organizador-de-Projetos', 
   },
   {
-    id: 2,
+    id: 3,
     title: 'Miles Project',
     description: 'Institutional website for miles points programming, with animated loading, highlighted flashes and responsiveness adapted for mobile and desktop.',
     image: '/projetos/smiles.jpg',
@@ -131,7 +140,7 @@ const projetosFull = [
     code: 'https://github.com/LucasPim00/milhas',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Hairdresser APP',
     description: 'APP with location, authentication and corporate database with efficient access and control system',
     image: '/projetos/barbeiro.jpg',

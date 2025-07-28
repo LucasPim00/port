@@ -114,6 +114,15 @@ const projetosBack = [
 const projetosFull = [
   {
     id: 1,
+    title: 'Casa de Apostas',
+    description: 'Plataforma interativa,  relacionadas a apostas, transações financeiras, criptomoedas e partidas de futebol.',
+    image: '/projetos/apostas.jpg',
+    techs: ['React', 'React Router DOM', 'React Toastify', 'React Hook Form', 'Node.js','CssBaseline', 'Styled-Components','Material UI', 'Yup'],
+    link: 'https://apostas-8v29.vercel.app/', 
+    code: 'https://github.com/LucasPim00/apostas', 
+  },
+  {
+    id: 2,
     title: 'Organizador de Projetos',
     description: 'Funcionalidades Next.Auth, pasta com segurança de dois fatores, feito para acoplar arquitetura de projetos em geral',
     image: '/projetos/geralFULL.jpg',
@@ -122,7 +131,7 @@ const projetosFull = [
     code: 'https://github.com/LucasPim00/Organizador-de-Projetos', 
   },
   {
-    id: 2,
+    id: 3,
     title: 'Projeto Milhas',
     description: 'Site institucional de programa de pontos em milhas, com carregamento animado, seções em destaque e responsividade adaptada para mobile e desktop. ',
     image: '/projetos/smiles.jpg',
@@ -131,7 +140,7 @@ const projetosFull = [
     code: 'https://github.com/LucasPim00/milhas',
   },
   {
-    id: 3,
+    id: 4,
     title: 'APP Cabeleireiro',
     description: 'APP com localização, autentificação e banco de dados empresarial com sistema de controle e acesso eficiente',
     image: '/projetos/barbeiro.jpg',
