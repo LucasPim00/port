@@ -227,14 +227,15 @@ export default function Projects() {
                         👁 Projeto
                       </a>
 
-                      <a
+                      {/*<a
                         href={proj.code}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-cyan-500 px-4 py-2 rounded text-white font-bold flex items-center gap-2 transition cursor-pointer"
                       >
                         🧠 Código
-                      </a>
+                      </a>*/}
+                      
                     </div>
 
                       {/* Título e descrição */}
