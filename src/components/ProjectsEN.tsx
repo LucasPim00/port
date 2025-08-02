@@ -34,7 +34,7 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/port-animado/tree/main',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Real-time Stock Exchange',
     description: 'Time zone-aware financial dashboard with account authentication',
     image: '/projetos/cripto.jpg',
@@ -43,7 +43,7 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/Dash-cripto',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Clone Nubank',
     description: 'Project made in Figma, but with React 18 for UI, Prisma ORM for PDF integration to the database and Public folder for PDF conversion',
     image: '/projetos/nubank.png',
@@ -52,7 +52,25 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/nu',
   },
   {
-    id: 5,
+    id: 6,
+    title: 'My Coffee',
+    description: 'Coffee Delivery is a landing page designed to provide a simple and intuitive shopping experience for coffee lovers',
+    image: '/projetos/cafe.jpg',
+    techs: ['JavaScript', 'HTML', 'CSS', 'Bootstrap'],
+    link: 'https://cafe-ivory-six.vercel.app/', 
+    code: 'https://github.com/LucasPim00/cafe',
+  },
+  {
+    id: 7,
+    title: 'Quiz SQL',
+    description: 'An interactive quiz platform to validate knowledge of aggregate functions and SQL subqueries',
+    image: '/projetos/quiz.jpg',
+    techs: ['JavaScript', 'HTML', 'CSS', 'Bootstrap', 'Vite'],
+    link: 'https://quiz-amber-delta.vercel.app/', 
+    code: 'https://github.com/LucasPim00/quiz',
+  },
+  {
+    id: 8,
     title: 'Android informational site',
     description: 'This is a static and semantic site, used to learn how to use coupling, various padding and features.',
     image: '/projetos/android.jpg',
@@ -61,7 +79,7 @@ const projetosFront = [
     code: 'https://github.com/LucasPim00/Projeto-android',
   },
   {
-    id: 6,
+    id: 9,
     title: 'My Iphone',
     description: 'This project simulates an iPhone-style mobile interface, with links to social networks that open inside an iframe.',
     image: '/projetos/iphone.jpg',
