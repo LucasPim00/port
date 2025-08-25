@@ -6,7 +6,7 @@ export default function Experience() {
         <h2 className="text-3xl font-bold text-white mb-2">Experiências</h2>
         <div className="h-2 w-80 bg-gradient-to-r from-cyan-400 to-white rounded-full mb-6" />
         <a
-        href="/certificados/CURRICULO.pdf" 
+        href="/certificados/CURRICULOP.pdf" 
         download
         className="absolute top-4 right-4 group"
         >
